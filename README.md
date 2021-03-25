@@ -1,4 +1,5 @@
 #some description and how to run
+
 I have used musixmatch developer API to Build this project
 In this you have to create your account and then go to admin/application then copy the api
 2. create a .env file and paste it with name REACT_APP_MM_KEY= PASTE here your Api
