@@ -1,3 +1,11 @@
+#some description and how to run
+I have used musixmatch developer API to Build this project
+In this you have to create your account and then go to admin/application then copy the api
+2. create a .env file and paste it with name REACT_APP_MM_KEY= PASTE here your Api
+3. Download the dependency if missing
+4. run yarn start in your editor
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
